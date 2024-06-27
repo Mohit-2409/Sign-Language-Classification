@@ -6,3 +6,4 @@ import numpy as np
 #tensorflow keras for imagegenerator 
 #MAIN - CNN will be used  dont forget that 
 import keras
+import seaborn as sns
